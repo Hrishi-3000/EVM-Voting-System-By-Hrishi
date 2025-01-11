@@ -1,0 +1,7 @@
+matplotlib: Used for creating the pie chart in the results panel. It's a powerful library for data visualization in Python.
+
+The following libraries are built into Python and do not need to be installed separately:
+
+tkinter: For creating the GUI.
+csv: For exporting voting results to a CSV file.
+json: For exporting voting results to a JSON file.
